@@ -9,4 +9,4 @@ def mengetik(s):
 
     time.sleep(random.random() * 0.3)
 
-mengetik('Hello Kawan Ku')
+mengetik('Apa kabar perubahan ke-2 Kawan Ku')
